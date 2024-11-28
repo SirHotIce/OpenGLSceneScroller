@@ -1,0 +1,4 @@
+Vendor: Intel
+Renderer: Intel(R) Iris(R) Plus Graphics 640
+Version: 4.6.0 - Build 31.0.101.2112
+GLSL Version: 4.60 - Build 31.0.101.2112
